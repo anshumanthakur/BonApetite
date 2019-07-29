@@ -1,0 +1,11 @@
+com\risk\validator\IsValidEmail.class
+com\risk\validator\ContactNumberValidator.class
+com\risk\validator\ContactValidator.class
+com\risk\validator\Validpassword.class
+com\risk\controller\Entrycontroller.class
+com\risk\validator\IsphoneNumber.class
+com\risk\configuration\HibernateConfiguration.class
+com\risk\model\User.class
+com\risk\configuration\AppConfig.class
+com\risk\configuration\AppInitializer.class
+com\risk\validator\PasswordValidatorimple.class
